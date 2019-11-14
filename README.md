@@ -1,0 +1,1 @@
+Neste exercício iremos estudar a forma de autenticação de usuários baseada no OAuth, utilizando oGithub com o Passportjs.
